@@ -8,7 +8,7 @@ git remote add origin git@github.com:xiesoul/notes.git
 git push -u origin master
 ```
 
-**命令行关联并同步到云仓库**
+**命令行关联并同步到Github仓库**
 ```shell
 git remote add origin git@github.com:xiesoul/notes.git
 git push -u origin master
