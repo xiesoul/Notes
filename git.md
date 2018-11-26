@@ -1,4 +1,3 @@
-[TOC]
 **命令行创建新库**
 ```shell
 echo "# notes" >> README.md
