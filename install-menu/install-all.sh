@@ -32,6 +32,11 @@ do
 	read INDEX
 	case $INDEX in
 		1) $FILE_PATH/install-httpd.sh;;
+		2) $FILE_PATH/install-httpd.sh;;
+		3) $FILE_PATH/install-httpd.sh;;
+		4) $FILE_PATH/install-httpd.sh;;
+		5) $FILE_PATH/install-httpd.sh;;
+		6) $FILE_PATH/install-httpd.sh;;
 		*) exit;;
 	esac
 done
